@@ -1,1 +1,1 @@
-# CodaWEB Micro web utility
+# Coda - Micro web utility
