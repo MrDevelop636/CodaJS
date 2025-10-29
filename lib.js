@@ -46,6 +46,4 @@ const CodaJS = (() => {
 
   return { c, on, addClass, removeClass, create, append };
 })();
-CodaJS.registerModule('dom', '/js/modules/coda-dom.js');
-CodaJS.registerModule('ajax', '/js/modules/coda-ajax.js');
-CodaJS.registerModule('animations', '/js/modules/coda-anim.js');
+
