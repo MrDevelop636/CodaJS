@@ -1,1 +1,1 @@
-# Coda - Micro web utility
+# CodaJS
